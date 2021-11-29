@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+dropper
 
 # Test binary, built with `go test -c`
 *.test
